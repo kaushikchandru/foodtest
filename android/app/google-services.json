@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "931558815016",
+    "project_id": "foodtest-e8900",
+    "storage_bucket": "foodtest-e8900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931558815016:android:23cc767a70bda545b5cc1d",
+        "android_client_info": {
+          "package_name": "com.food.test.foodtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931558815016-hp7g1hmts3i6dnceoaipghpunn3s4113.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food.test.foodtest",
+            "certificate_hash": "32fa9a3c77cde918cbe39d8489711af2bcd78f09"
+          }
+        },
+        {
+          "client_id": "931558815016-apodi474vcqhc0qm9dqn3g770ie2v9ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpmzNyuEwLYOVKbE4BZSYTJcixytmsirU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931558815016-apodi474vcqhc0qm9dqn3g770ie2v9ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
